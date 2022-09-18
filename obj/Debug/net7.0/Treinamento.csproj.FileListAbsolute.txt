@@ -1,0 +1,15 @@
+C:\Estudo\Treinamento\bin\Debug\net7.0\Treinamento.exe
+C:\Estudo\Treinamento\bin\Debug\net7.0\Treinamento.deps.json
+C:\Estudo\Treinamento\bin\Debug\net7.0\Treinamento.runtimeconfig.json
+C:\Estudo\Treinamento\bin\Debug\net7.0\Treinamento.dll
+C:\Estudo\Treinamento\bin\Debug\net7.0\Treinamento.pdb
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.csproj.AssemblyReference.cache
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.AssemblyInfoInputs.cache
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.AssemblyInfo.cs
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.csproj.CoreCompileInputs.cache
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.dll
+C:\Estudo\Treinamento\obj\Debug\net7.0\refint\Treinamento.dll
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.pdb
+C:\Estudo\Treinamento\obj\Debug\net7.0\Treinamento.genruntimeconfig.cache
+C:\Estudo\Treinamento\obj\Debug\net7.0\ref\Treinamento.dll
